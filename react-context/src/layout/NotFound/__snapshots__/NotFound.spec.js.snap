@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout: Footer should... Render match snapshot 1`] = `
+<h1>
+  Nous n'avons pas trouvé votre page.
+</h1>
+`;
